@@ -1,0 +1,7 @@
+{
+  "name": "Remix: FitHer",
+  "description": "A warm, knowledgeable, and empowering AI health companion built specifically for women, providing personalized fitness, nutrition, and motivation based on your unique cycle.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
